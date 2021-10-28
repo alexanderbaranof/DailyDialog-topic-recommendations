@@ -1,0 +1,12 @@
+# For updating req
+pip-tools
+
+# Code formatter
+black
+isort
+
+# Fot testing and linters
+coverage
+flake8
+mypy
+pylint
